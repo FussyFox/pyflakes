@@ -1,2 +1,2 @@
-lintipy==1.1.0
+lintipy==1.2.1
 pyflakes==2.1.1
